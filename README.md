@@ -90,4 +90,4 @@
 </div>
 
 <br>
-<p align="center"><a href="https://twitter.com/itseaaarloffcl" target="_blank">Copyright ©2023 | Earl Villapaz</a></p>
+<p align="center"><a href="https://twitter.com/itseaaarloffcl" target="_blank">Copyright ©2025 | Earl Villapaz</a></p>
