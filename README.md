@@ -1,23 +1,24 @@
 <p align="center" ><img src="https://user-images.githubusercontent.com/91045673/227721048-04f7adc1-b38f-416d-ab10-c6289a5d4bfb.png" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iEarlG&color=blue" alt="iEarlG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EAAARL&color=blue" alt="EAAARL" /> </p>
 <div>
 <p align="left"> <a href="https://twitter.com/itseaaarloffcl" target="blank"><img src="https://img.shields.io/twitter/follow/itseaaarloffcl?logo=twitter&style=for-the-badge" alt="itseaaarloffcl" /></a> </p>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
-## <picture><img src ="https://raw.githubusercontent.com/0xabdulkhalid/0xabdulkhalid/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
   
 - ⭐ A passionate Self-taught Front-End Developer
 - 📚 Currently learning more about **Web 3.0, Web Apps, Andriod Apps, and more**
-- 📚 I am a Senior HS Graduate at **STI College of Davao** a track course of **MAWD - Mobile Apps & Web Dev.**
-- 💀 Mostly right now i'am working on a **eCommerce, Web 3.0, A.I Web Apps, & CRUD Web and Mobile Apps**
+- 📚 I am a Senior HS Graduate at **STI College of Davao** a track course of **MAWD - Mobile Application & Web Development.**
+      - Developed Weight Tracket (BMI Calculator)
+- 💀 Mostly right now i'am working on my **Web portfolio**
 - 👾 A **learner** working his way around new things.
-- 🖥️ A Former RoS Competitive Pro Player playing for ANTZ GAMING, BARCODE CLAN, BARX Gaming, & Team Captain of DISCIPLES
+- 🖥️ A Former Esports Competitive Player.
 - 🎮 A Gaming Content Creator, platforms is Facebook Gaming, Twitch Tv, TikTok, & YouTube
   
 - <h4> Works & Experience </h4>
-  - 💼 NCGC Esports Marshal/Ambassador <br>
+  - 💼 Esports Ambassador & Tournamen Marshal for NCGC Esports <br>
   - 💼 Social Media Handler (Freelance)
   
 ## <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width ="25"><b> Skills</b>
@@ -83,8 +84,8 @@
 <div align="center">
   
 <a href="https://github.com/iEarlG/" align="center" >
-  <img src="https://github-readme-stats.vercel.app/api?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEarlG&show_icons=true&bg_color=00000000&theme=tokyonight" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EAAARL&show_icons=true&bg_color=00000000&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EAAARL&show_icons=true&bg_color=00000000&theme=tokyonight" width="200" />
 </a>
   
 </div>
